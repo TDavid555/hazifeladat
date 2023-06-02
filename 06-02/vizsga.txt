@@ -1,0 +1,12 @@
+web:
+a bootstrap mappa meg lesz hívva a css mappából
+lesz minta mappa
+validalas screenshot név jó legyen
+nem lesz táblázat
+
+python:
+3 db py fájl fog készülni
+kimenet olyan legyen amilyen kell
+ha nincs beolvasás is kell csinálni a feladatot
+utolsó feladat kiíratás
+nem lesz fejléce a beolvasásnál
